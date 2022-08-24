@@ -1,0 +1,8 @@
+.heading {
+  text-align: center;
+  color: coral;
+}
+.heading:hover {
+  font-weight: bold;
+  size: 10rem;
+}
